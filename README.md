@@ -1,4 +1,4 @@
-# superHeroSE
+# SoSHero -- The Super Hero Search Engine
 ## A Data visualization application using React framework that allows users to create a list of heroes and visualize their powerStats
 ## See the web app at: https://sttwarrior.github.io/SoSHero/
 ---
