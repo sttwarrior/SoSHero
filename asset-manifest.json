@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/SoSHero/static/js/main.3032d38d.chunk.js",
+    "main.js.map": "/SoSHero/static/js/main.3032d38d.chunk.js.map",
+    "runtime-main.js": "/SoSHero/static/js/runtime-main.c9c54a0c.js",
+    "runtime-main.js.map": "/SoSHero/static/js/runtime-main.c9c54a0c.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/SoSHero/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d720eb2f.chunk.js": "/SoSHero/static/js/2.d720eb2f.chunk.js",
+    "static/js/2.d720eb2f.chunk.js.map": "/SoSHero/static/js/2.d720eb2f.chunk.js.map",
+    "index.html": "/SoSHero/index.html",
+    "precache-manifest.c4ade7c19134e97161d677ff5f2486e1.js": "/SoSHero/precache-manifest.c4ade7c19134e97161d677ff5f2486e1.js",
+    "service-worker.js": "/SoSHero/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/SoSHero/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.d720eb2f.chunk.js.LICENSE.txt": "/SoSHero/static/js/2.d720eb2f.chunk.js.LICENSE.txt",
+    "static/media/unknown.jpg": "/SoSHero/static/media/unknown.ee7bd910.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9c54a0c.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.d720eb2f.chunk.js",
+    "static/js/main.3032d38d.chunk.js"
+  ]
+}
